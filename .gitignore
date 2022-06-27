@@ -1,0 +1,10 @@
+# ignore node module, config files
+/**/node_modules/
+/**/package.json
+/**/yarn.lock
+/**/.babelrc
+/**/tsconfig.json
+/**/webpack.config.js
+
+/canvas/*
+!/canvas/canvas_1/
