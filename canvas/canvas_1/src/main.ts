@@ -80,5 +80,3 @@ for ( let count = 0; count < 100; count ++ ) {
 console.log(circleArray);
 
 animate();
-
-// https://www.youtube.com/watch?v=yq2au9EfeRQ&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&index=3
