@@ -1,3 +1,5 @@
+// const Utils = require("./utils.ts");
+// import { randomIntFromRange } from "./utils";
 import * as Utils from "./utils";
 
 // global function

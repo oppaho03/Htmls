@@ -133,7 +133,6 @@ class Circle {
     }
 }
 
-
 const circleArray : Circle[] = [];
 for ( let count = 0; count < 500; count ++ ) {
     // let [x, y, mx, my, radius] = [ 200, 200 , 4, 4, 30];
